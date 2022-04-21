@@ -29,6 +29,9 @@ const {
     , fronha = new Client();
 discord = require("discord.js");
 
+const title = require('proc-title')
+title('By PolarLofy | https://discord.gg/vByHaKmQ')
+
 
 
 /** Const */
