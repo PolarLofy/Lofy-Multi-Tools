@@ -40,7 +40,7 @@ pip install Style
 pip install Thread
 pip install dhooks
 cls
-npm i && npm i proc-title
+npm i && npm i proc-title && npm i flame-vali
 cls
 color 4
 echo.
