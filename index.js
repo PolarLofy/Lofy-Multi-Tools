@@ -1,6 +1,3 @@
-const checker_size = require('./node_modules/flame-vali/checker_size/checker')
-checker_size("valid")
-
 Gradient = require("gradient-string")
 const Shell = require("shelljs");
 
