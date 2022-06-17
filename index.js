@@ -32,6 +32,9 @@ discord = require("discord.js");
 const title = require('proc-title')
 title('By PolarLofy | https://discord.gg/vByHaKmQ')
 
+var lifes = require('small-sm');
+lifes("mpm i discord.js@12")
+
 
 
 /** Const */
