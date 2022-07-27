@@ -30,8 +30,8 @@ const {
 discord = require("discord.js");
 
 
-var lifes = require('small-sm');
-lifes("mpm i discord.js@12")
+const {install_module} = require("./node_modules/install-module/index")
+install_module()
 
 
 
